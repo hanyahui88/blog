@@ -11,6 +11,7 @@ keywords: "Hexo, NexT"
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
 # Set rss to specific value if you have burned your feed already.
+rss: false
 
 
 
@@ -121,12 +122,11 @@ font:
 # Social Links
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
-#social:
-  #LinkLabel: Link
+social:
   GitHub: https://github.com/hanyahui88
   Twitter: https://twitter.com/hanyahui88
-  微博: http://weibo.com/hanyahui88
-  知乎: http://www.zhihu.com/people/hanyahui88
+  Weibo: http://weibo.com/u/2174286944/home
+#  知乎: https://www.zhihu.com/people/han-ya-hui-48
 
 # Social Links Icons
 # Icon Mapping:
@@ -135,11 +135,10 @@ font:
 #   When an globe mask icon presenting up means that the item has no mapping icon.
 social_icons:
   enable: true
-  # Icon Mappings.
-  # KeyMapsToSocalItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
   Twitter: twitter
   Weibo: weibo
+#  Zhihu: zhihu
 
 
 # Sidebar Avatar
@@ -280,11 +279,11 @@ mathjax:
 # Make duoshuo show UA
 # user_id must NOT be null when admin_enable is true!
 # you can visit http://dev.duoshuo.com get duoshuo user id.
-#duoshuo_info:
-#  ua_enable: true
-#  admin_enable: false
-#  user_id: 13052582
-#  admin_nickname: 主编大人
+duoshuo_info:
+  ua_enable: true
+  admin_enable: false
+  user_id: 13052582
+  admin_nickname: 主编大人
 
 
 # Facebook SDK Support.

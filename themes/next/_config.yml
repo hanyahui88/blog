@@ -280,11 +280,11 @@ mathjax:
 # Make duoshuo show UA
 # user_id must NOT be null when admin_enable is true!
 # you can visit http://dev.duoshuo.com get duoshuo user id.
-duoshuo_info:
-  ua_enable: true
-  admin_enable: false
-  user_id: 13052582
-  admin_nickname: 主编大人
+#duoshuo_info:
+#  ua_enable: true
+#  admin_enable: false
+#  user_id: 13052582
+#  admin_nickname: 主编大人
 
 
 # Facebook SDK Support.
@@ -402,12 +402,6 @@ images: images
 # Theme version
 version: 5.0.2
 
-title: 标签测试文章
-tags:
-- Testing
-- Testing2
-categories:
-- diary
 since: 2016
 reward_comment: 坚持原创技术分享，您的支持将鼓励我继续创作！
 wechatpay: /path/to/wechat-reward-image.png

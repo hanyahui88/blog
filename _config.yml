@@ -72,6 +72,7 @@ deploy:
   repo: https://github.com/hanyahui88/hanyahui88.github.io.git
   branch: master
 duoshuo_shortname: hanyahui88
+duoshuo_hotartical: true
 baidu_analytics: 8b9353fdbe141a6f55cd19d5e7eff7ef
 search:
   path: search.xml

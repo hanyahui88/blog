@@ -5,14 +5,14 @@
 # Site
 title: alvin blog
 subtitle: 再牛逼的梦想,也抵不住傻逼似的坚持
-description: search key
+description: 想一夜暴富的程序猿
 author: alvin
 language: zh-Hans
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://hanyahui88.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
